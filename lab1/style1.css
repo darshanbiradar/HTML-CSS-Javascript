@@ -1,0 +1,36 @@
+.about{
+    color: #f90606;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 48px;
+    font-style: italic;
+
+
+}
+.name{
+    color: #0334f6;;
+    padding-left: 30%;
+    font-family: 'Comic Sans Ms';
+    font-style: italic;
+    font-size:48px;
+    /* background-color: #3c4858; */
+}
+.parent{
+    content: ""; 
+    clear: both;
+    display: table;
+    background-color:silver
+}
+.para{
+    color:#3c4858 ;
+    font-family: 'Cooper Black', Times, serif;
+    float: left;
+    width: 45%; 
+    text-align: justify;
+    padding-left: 5px;
+}
+.par{
+    font-weight: bold;
+    font-size:18px;
+    font-family:  'Cooper Black';
+    text-align: justify;
+}
